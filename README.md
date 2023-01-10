@@ -1,6 +1,6 @@
 ### Project overview
 
-A curated list of data-relevant projects 📈 📉
+A curated list of data-relevant projects 📈 📊 📉
 
 On the practical side
 - Divvy Bikeshare Analyses: 
