@@ -3,7 +3,7 @@
 A curated list of data-relevant projects 📈 📊 📉
 
 On the practical side
-- Divvy Bikeshare Analysis: 
+- [Divvy Bikeshare Analysis](https://github.com/RMpolski/Divvy-Rideshare-Analysis): Revenue and usage analysis, with geospatial visualizations and analysis of station surpluses and deficits
 
 And two projects related to my research on electronic behavior in graphene and other materials 💎
 - [Graphene Spin-Orbit Analysis](https://github.com/RMpolski/Graphene-Spin-Orbit-Analysis): Data modeling and statistical parameter estimation applied to a fun dataset I measured on twisted bilayer graphene/WSe<sub>2</sub>
